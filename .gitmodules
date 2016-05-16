@@ -1,0 +1,9 @@
+[submodule "adxl345"]
+	path = adxl345
+	url = https://github.com/Bloutiouf/adxl345.c.git
+[submodule "hmc5883l"]
+	path = hmc5883l
+	url = https://github.com/Bloutiouf/hmc5883l.c.git
+[submodule "itg3200"]
+	path = itg3200
+	url = https://github.com/Bloutiouf/itg3200.c.git
